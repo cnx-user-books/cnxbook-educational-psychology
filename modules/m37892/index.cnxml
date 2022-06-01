@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Selecting appropriate assessment techniques I: high quality assessments</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37892</md:content-id>
+  <md:title>Selecting appropriate assessment techniques I: high quality assessments</md:title>
+  <md:abstract>A discussion of the importance of good validity for assessment techniques.</md:abstract>
+  <md:uuid>5c228c9d-4b0c-413d-a421-b3e73b61404d</md:uuid>
+</metadata>
+
+<content>
+  
+      <note id="eip-253">The primary author of this module is Dr. Rosemary Sutton.</note><para id="id1164141000953">For an assessment to be high quality it needs to have good validity and reliability as well as absence from bias. </para>
+      <section id="id1164139990573"><title>Validity </title><para id="id1164147643102">Validity is the evaluation of the “adequacy and appropriateness of the interpretations and uses of assessment results” for a given group of individuals (Linn &amp; Miller, 2005, p. 68).<emphasis effect="italics"/>For example, is it appropriate to conclude that the results of a mathematics test on fractions given to recent immigrants accurately represents their understanding of fractions? Is it appropriate for the teacher to conclude, based on her observations, that a kindergarten student, Jasmine, has Attention Deficit Disorder because she does not follow the teachers oral instructions? Obviously in each situation other interpretations are possible that the immigrant students have poor English skills rather than mathematics skills, or that Jasmine may be hearing impaired. </para>
+        <para id="id1164140320935">It is important to understand that validity refers to the <emphasis effect="italics">interpretation and uses made of the results</emphasis> of an assessment procedure not of the assessment procedure itself. For example, making judgments about the results of the same test on fractions may be valid if the students all understand English well. A teacher concluding from her observations that the kindergarten student has Attention Deficit Disorder (ADD) may be appropriate if the student has been screened for hearing and other disorders (although the classification of a disorder like ADD cannot be made by one teacher). Validity involves making an overall judgment of the degree to which the interpretations and uses of the assessment results are justified. Validity is a matter of degree (e.g. high, moderate, or low validity) rather than all-or none (e.g. totally valid vs invalid) (Linn &amp; Miller, 2005). </para>
+        <para id="id1164137019270">Three sources of evidence are considered when assessing validity—content, construct and predictive. <emphasis effect="bold">Content validity</emphasis> evidence is associated with the question: How well does the assessment include the content or tasks it is supposed to? For example, suppose your educational psychology instructor devises a mid-term test and tells you this includes chapters one to seven in the text book. Obviously, all the items in test should be based on the content from educational psychology, not your methods or cultural foundations classes. Also, the items in the test should cover content from all seven chapters and not just chapters three to seven—unless the instructor tells you that these chapters have priority. </para>
+        <para id="id1164152719012">Teachers’ have to be clear about their purposes and priorities for instruction <emphasis effect="italics">before </emphasis>they can begin to gather evidence related<emphasis effect="italics"/>content validity<emphasis effect="italics">. </emphasis>Content validation determines the degree that assessment tasks are relevant and representative of the tasks judged by the teacher (or test developer) to represent their goals and objectives (Linn &amp; Miller, 2005). It is important for teachers to think about content validation when devising assessment tasks and one way to help do this is to devise a Table of Specifications. An example, based on Pennsylvania’s State standards for grade 3 geography, is in . In the left hand column is the instructional content for a 20-item test the teacher has decided to construct with two kinds of instructional objectives: identification and uses or locates. The second and third columns identify the number of items for each content area and each instructional objective. Notice that the teacher has decided that six items should be devoted to the sub area of geographic representations- more than any other sub area. Devising a table of specifications helps teachers determine if some content areas or concepts are over-sampled (i.e. there are too many items) and some concepts are under-sampled (i.e. there are too few items). </para>
+        
+        <table id="id1164142237704" summary="A grading rubric for basic geography literacy."><title>Example of Table of Specifications: grade 3 basic geography literacy</title><tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Content </emphasis>
+                </entry>
+                <entry namest="c2" nameend="c3">
+                  <emphasis effect="bold">Instructional objective</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Total number of items</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Per cent of items </emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>
+                  <emphasis effect="bold">Identifies</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Uses or locates </emphasis>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Identify geography tools and their uses </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Geographic representations: e.g. maps, globe, diagrams and photographs</entry>
+                <entry>3</entry>
+                <entry>3</entry>
+                <entry>6</entry>
+                <entry>30%</entry>
+              </row>
+              <row>
+                <entry>Spatial information: sketch &amp; thematic maps </entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>10%</entry>
+              </row>
+              <row>
+                <entry>Mental maps </entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>10%</entry>
+              </row>
+              <row>
+                <entry>Identify and locate places and regions</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Physical features (e.g. lakes, continents)</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>15%</entry>
+              </row>
+              <row>
+                <entry>Human features (countries, states, cities)</entry>
+                <entry>3</entry>
+                <entry>2</entry>
+                <entry>5</entry>
+                <entry>25%</entry>
+              </row>
+              <row>
+                <entry>Regions with unifying geographic characteristics e.g. river basins</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>2 </entry>
+                <entry>10% </entry>
+              </row>
+              <row>
+                <entry>Number of items </entry>
+                <entry>10 </entry>
+                <entry>10 </entry>
+                <entry>20 </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Percentage of items </entry>
+                <entry>50%</entry>
+                <entry>50%</entry>
+                <entry/>
+                <entry>100%</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1164147912849">Construct validity evidence is more complex than content validity evidence. Often we are interested in making broader judgments about student’s performances than specific skills such as doing fractions. The focus may be on constructs such as mathematical reasoning or reading comprehension. A construct is a characteristic of a person we assume exists to help explain behavior. For example, we use the concept of test anxiety to explain why some individuals when taking a test have difficulty concentrating, have physiological reactions such as sweating, and perform poorly on tests but not in class assignments. Similarly mathematics reasoning and reading comprehension are constructs as we use them to help explain performance on an assessment. Construct validation is the process of determining the extent to which performance on an assessment can be interpreted in terms of the intended constructs and is not influenced by factors irrelevant to the construct. For example, judgments about recent immigrants’ performance on a mathematical reasoning test administered in English will have low construct validity if the results are influenced by English language skills that are irrelevant to mathematical problem solving. Similarly, construct validity of end-of-semester examinations is likely to be poor for those students who are highly anxious when taking major tests but not during regular class periods or when doing assignments. Teachers can help increase construct validity by trying to reduce factors that influence performance but are irrelevant to the construct being assessed. These factors include anxiety, English language skills, and reading speed (Linn &amp; Miller 2005). </para>
+        <para id="id1164139140713">A third form of validity evidence is called <emphasis effect="bold">criterion-related validity. </emphasis>Selective colleges in the USA use the ACT or SAT among other criteria to choose who will be admitted because these standardized tests help predict freshman grades, i.e. have high criterion-related validity. Some K-12 schools give students math or reading tests in the fall semester in order to predict which are likely to do well on the annual state tests administered in the spring semester and which students are unlikely to pass the tests and will need additional assistance. If the tests administered in fall do not predict students’ performances accurately then the additional assistance may be given to the wrong students illustrating the importance of criterion-related validity. </para>
+      </section>
+  
+</content>
+
+</document>

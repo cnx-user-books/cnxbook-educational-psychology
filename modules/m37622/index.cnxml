@@ -1,0 +1,280 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Understanding test results</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37622</md:content-id>
+  <md:title>Understanding test results</md:title>
+  <md:abstract>A discussion of measurement theory in order to establish a good method for understanding standardized test results.</md:abstract>
+  <md:uuid>ee1a9109-eb9b-4773-a9bf-b32282661826</md:uuid>
+</metadata>
+
+<content>
+    
+      <note id="eip-584">The primary author of this module is Dr. Rosemary Sutton.</note><para id="id1169761583688">In order to understand test results from standardized tests it is important to be familiar with a variety of terms and concepts that are fundamental to “measurement theory”, the academic study of measurement and assessment. Two major areas in measurement theory, reliability and validity, were discussed in the previous chapter; in this chapter we focus on concepts and terms associated with test scores. </para>
+      <section id="id1169746304416">
+        <title>The basics</title>
+        <section id="id4462159">
+          <title>Frequency distributions </title>
+          <para id="id4463874">A frequency distribution is a listing of the number of students who obtained each score on a test. If 31 students take a test, and the scores range from 11 to 30 then the frequency distribution might look like <link target-id="id4494980"/>. We also show the same set of scores on a histogram or bar graph in <link target-id="id1169752903228"/>. The horizontal (or x axis) represents the score on the test and the vertical axis (y axis) represents the number or frequency of students. Plotting a frequency distribution helps us see what scores are typical and how much variability there are in the scores. We describe more precise ways of determining typical scores and variability next. </para>
+          
+          <table id="id4494980" summary="A table of the frequency distribution for the scores of a test, with the modes, median, and mean all listed."><title>Frequency distribution for 30 scores</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Score on test</entry>
+                  <entry>Frequency</entry>
+                  <entry>Central tendency measures</entry>
+                </row>
+                <row>
+                  <entry>17</entry>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>18</entry>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>19</entry>
+                  <entry>0</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>20</entry>
+                  <entry>3</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>21</entry>
+                  <entry>2</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>22</entry>
+                  <entry>6</entry>
+                  <entry>Mode</entry>
+                </row>
+                <row>
+                  <entry>23</entry>
+                  <entry>3</entry>
+                  <entry>Median </entry>
+                </row>
+                <row>
+                  <entry>24</entry>
+                  <entry>2</entry>
+                  <entry>Mean </entry>
+                </row>
+                <row>
+                  <entry>25</entry>
+                  <entry>0</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>26</entry>
+                  <entry>2</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>27</entry>
+                  <entry>6</entry>
+                  <entry>Mode </entry>
+                </row>
+                <row>
+                  <entry>28</entry>
+                  <entry>2</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>29</entry>
+                  <entry>2</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>30</entry>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>TOTAL </entry>
+                  <entry>31</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+          <para id="id4028679">
+            <figure id="id1169752903228"><media id="id1169752903228_media" alt="A histogram of the frequency distribution of a test, showing that scores 22 and 27 were the most frequent.">
+                <image mime-type="image/png" src="../../media/picture5.png" id="id1169752903228__onlineimage" width="350"/>
+              </media>
+            <caption>Tests scores from Table 2 represented as a bar graph</caption></figure>
+          </para>
+          
+        </section>
+      </section>
+      <section id="id1169763287306">
+        <title>Central tendency and variability</title>
+        <para id="id1169759474603">There are three common ways of measuring central tendency or which score(s) are typical. The<emphasis effect="italics"> mean</emphasis> is calculated by adding up all the scores and dividing by the number of scores. In the example in <link target-id="id4494980"/>, the mean is 24. The <emphasis effect="italics">median</emphasis> is the “middle” score of the distribution—that is half of the scores are above the median and half are below. The median on the distribution is 23 because 15 scores are above 23 and 15 are below. The <emphasis effect="italics">mode </emphasis>is the score that occurs most often. In <link target-id="id4494980"/> there are actually two modes 22 and 27 and so this distribution is described as bimodal. Calculating the mean, median and mode are important as each provides different information for teachers. The median represents the score of the “middle” students, with half scoring above and below, but does not tell us about the scores on the test that occurred most often. The mean is important for some statistical calculations but is highly influenced by a few extreme scores (called outliers) but the median is not. To illustrate this, imagine a test out of 20 points taken by 10 students, and most do very well but one student does very poorly. The scores might be 4, 18, 18, 19, 19, 19, 19, 19, 20, 20. The mean is 17.5 (170/10) but if the lowest score (4) is eliminated the mean is now is 1.5 points higher at 19 (171/9). However, in this example the median remains at 19 whether the lowest score is included. When there are some extreme scores the median is often more useful for teachers in indicating the central tendency of the frequency distribution. </para>
+        <para id="id1169746388028">The measures of central tendency help us summarize scores that are representative, but they do not tell us anything about how variable or how spread out are the scores. <link target-id="id1169761309626"/> illustrates sets of scores from two different schools on the same test for fourth graders. Note that the mean for each is 40 but in School A the scores are much less spread out. A simple way to summarize variability is the range,<emphasis effect="bold"/>which is the lowest score subtracted from the lowest score. In School A with low variability the range is (45—35) = 10; in the school B the range is ( 55-22 = 33).</para>
+        <figure id="id1169761309626"><media id="id1169761309626_media" alt="An example exam taken by two different schools with different variability. School A's spread, or standard deviation, is much lower than school B's.">
+            <image mime-type="image/png" src="../../media/picture6.png" id="id1169761309626__onlineimage" width="450"/>
+          </media>
+        <caption>Fourth grade math scores in two different schools with the same mean but different variability</caption></figure>
+        
+        <para id="id1169750178956">However, the range is only based on two scores in the distribution, the highest and lowest scores, and so does not represent variability in all the scores. The <emphasis effect="bold">standard deviation</emphasis> is based on how much, on average, all the scores deviate from the mean. In the example in <link target-id="id1169746357176"/> the standard deviations are 7.73 for School A and 2.01 for School B. In the exercise below we demonstrate how to calculate the standard deviation. </para>
+</section>
+        <section id="fs-id1172066000064"><title>Calculating a standard deviation</title>
+        <para id="id1169747433197">Example: The scores from 11 students on a quiz are 4, 7, 6, 3, 10, 7, 3, 7, 5, 5, and 9 </para>
+        <list id="id1169752918450" list-type="enumerated" number-style="arabic">
+          <item>Order scores.</item>
+          <item>Calculate the mean score.</item>
+          <item>Calculate the deviations from the mean.</item>
+          <item>Square the deviations from the mean.</item>
+          <item>Calculate the mean of the squared deviations from the mean (i.e. sum the squared deviations from the mean then divide by the number of scores). This number is called the variance. </item>
+          <item>Take the square root and you have calculated the standard deviation.</item>
+        </list>
+        <table id="id4376110" summary="A demonstration of how to calculate a standard deviation."><title>Calculating a standard deviation</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Score(Step 1, order)</entry>
+                <entry>Deviation from the mean</entry>
+                <entry>Squared deviation from the mean</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>-3</entry>
+                <entry>9</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>-3</entry>
+                <entry>9</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>-2</entry>
+                <entry>4</entry>
+                <entry>(Step 4-5, complete the calculations)</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>-1</entry>
+                <entry>1</entry>
+                <entry>Formula:</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>-1</entry>
+                <entry>1</entry>
+                <entry><m:math><m:mrow><m:mtext fontstyle="italic">Standard deviation</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:msqrt><m:mi>∑</m:mi><m:mo>(</m:mo><m:mtext fontstyle="italic">Score</m:mtext><m:mo>–</m:mo><m:mtext fontstyle="italic">Mean</m:mtext><m:msup><m:mo>)</m:mo><m:mi>2</m:mi></m:msup></m:msqrt></m:mrow><m:mrow><m:mi>N</m:mi></m:mrow></m:mfrac></m:mrow></m:math><newline/>N = Number of scores</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>3</entry>
+                <entry>9</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>4</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>TOTAL = 66</entry>
+                <entry/>
+                <entry>52</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>(Step 2, calculate mean)</entry>
+                <entry/>
+                <entry>(Step 3, calculate deviations)</entry>
+                <entry>(Step 6, find the standard deviation)</entry>
+              </row>
+            </tbody>
+          
+
+
+
+</tgroup>
+</table>
+        
+      </section>
+      <section id="id1169749352028">
+        <title>The normal distribution </title>
+        <para id="id1169747000529">Knowing the standard deviation is particularly important when the distribution of the scores falls on a normal distribution. When a standardized test is administered to a very large number of students the distribution of scores is typically similar, with many students scoring close to the mean, and fewer scoring much higher or lower than the mean. When the distribution of scores looks like the bell shape shown in <link target-id="id1169754422017"/> it is called a normal distribution. In the diagram we did not draw in the scores of individual students as we did in <link target-id="id1169754422053"/>, because distributions typically only fall on a normal curve when there are a large number of students; too many to show individually. A normal distribution is symmetric, and the mean, median and mode are all the same. </para>
+        <para id="id1169754422013"><figure id="id1169754422017"><title>Bell shaped curve of normal distribution</title><media id="id1169754422017_media" alt="A bell-shaped normal distribution of scores.">
+              <image mime-type="image/png" src="../../media/picture7.png" id="id1169754422017__onlineimage" width="400"/>
+            </media>
+          </figure>
+        </para>
+        
+        <para id="id1169754422044">Normal curve distributions are very important in education and psychology because of the relationship between the mean, standard deviation, and percentiles. In all normal distributions 34 per cent of the scores fall between the mean and one standard deviation of the mean. Intelligence tests often are constructed to have a mean of 100 and standard deviation of 15 and we illustrate that in <link target-id="id1169754422053"/>.</para>
+        <figure id="id1169754422053"><media id="id1169754422053_media" alt="A bell-shaped normal distribution of scores, showing the standard deviations.">
+            <image mime-type="image/png" src="../../media/picture8.png" id="id1169754422053__onlineimage" width="400"/>
+          </media>
+        <caption>Normal distribution for an IQ test with mean 100 and standard deviation 15 </caption></figure>
+        
+        <para id="id1169752524541">In this example, 34 per cent of the scores are between 100 and 115 and as well, 34 per cent of the scores lie between 85 and 100. This means that 68 per cent of the scores are between -1 and +1 standard deviations of the mean (i.e. 85 and 115). Note than only 14 per cent of the scores are between +1 and +2 standard deviations of the mean and only 2 per cent fall above +2 standard deviations of the mean. </para>
+        <para id="id4421112">In a normal distribution a student who scores the mean value is always in the fiftieth percentile because the mean and median are the same. A score of +1 standard deviation above the mean (e.g. 115 in the example above) is the 84 per cent tile (50 per cent and 34 per cent of the scores were below 115). In <link target-id="id1169746553966"/> we represent the percentile equivalents to the normal curve and we also show standard scores. 1 </para>
+      </section>
+      <section id="id1169749298405">
+        <title>Kinds of test scores </title>
+        <para id="id1169746359032">A <emphasis effect="bold">standard score</emphasis> expresses performance on a test in terms of standard deviation units above of below the mean (Linn &amp; Miller, 2005). There are a variety of standard scores:</para>
+        <para id="id1169752991009"><emphasis effect="bold">Z-score:</emphasis> One type of standard score is a<emphasis effect="bold"> z-score,</emphasis> in which the<emphasis effect="bold"/>mean is 0 and the standard deviation is 1. This means that a z-score tells us directly how many standard deviations the score is above or below the mean. For example, if a student receives a z score of 2 her score is two standard deviations above the mean or the eighty-fourth percentile. A student receiving a z score of -1.5 scored one and one half deviations below the mean. Any score from a normal distribution can be converted to a z score if the mean and standard deviation is known. The formula is:</para>
+        <para id="id1169751728207">So, if the score is 130 and the mean is 100 and the standard deviation is 15 then the calculation is:</para>
+        <para id="id1169751728212">If you look at <link target-id=""/>Exhibit 9 you can see that this is correct—a score of 130 is 2 standard deviations above the mean and so the z score is 2.</para>
+        <para id="id1169751728216"><emphasis effect="bold">T-score:</emphasis> A <emphasis effect="bold">T-score</emphasis> has a mean of 50 and a standard deviation of 10. This means that a T-score of 70 is two standard deviations above the mean and so is equivalent to a z-score of 2. </para>
+        <para id="id1169751728232"><emphasis effect="bold">Stanines: </emphasis>Stanines<emphasis effect="bold"/>(pronounced staynines) are often used for reporting students’ scores and are based on a standard nine point scale and with a mean of 5 and a standard deviation of 2. They are only reported as whole numbers and Figure 11-10 shows their relation to the normal curve. </para>
+        <section id="id1169751728251">
+          <title>Grade equivalent sores</title>
+          <para id="id1169751728258">A grade equivalent score provides an estimate of test performance based on grade level and months of the school year (Popham, 2005, p. 288). A grade equivalent score of 3.7 means the performance is at that expected of a third grade student in the seventh month of the school year. Grade equivalents provide a continuing range of grade levels and so can be considered developmental scores. Grade equivalent scores are popular and seem easy to understand however they are typically misunderstood. If, James, a fourth grade student, takes a reading test and the grade equivalent score is 6.0; <emphasis effect="italics">this does not mean that James can do sixth grade work</emphasis>. It means that James performed on the <emphasis effect="italics">fourth</emphasis><emphasis effect="italics">grade test </emphasis>as a sixth grade student is expected to perform. Testing companies calculate grade equivalents by giving one test to several grade levels. For example a test designed for fourth graders would also be given to third and fifth graders. The raw scores are plotted and a trend line is established and this is used to establish the grade equivalents. Note that in Error: Reference source not found the trend line extends beyond the grades levels actually tested so a grade equivalent above 5.0 or below 3.0 is based solely on the estimated trend lines. </para>
+          <figure id="id1169746553966"><media id="id1169746553966_media" alt="A histogram of each grade level's raw score, shown to increase steadily as the grade is higher.">
+              <image mime-type="image/png" src="../../media/picture9.png" id="id1169746553966__onlineimage" width="400"/>
+            </media>
+          <caption>Using trend lines to estimate grade equivalent scores </caption></figure>
+          
+          <para id="id1169746553994">Grade equivalent scores also assume that the subject matter that is being tested is emphasized at each grade level to the same amount and that mastery of the content accumulates at a mostly constant rate (Popham, 2005). Many testing experts warn that grade equivalent scores should be interpreted with considerable skepticism and that parents often have serious misconceptions about grade equivalent scores. Parents of high achieving students may have an inflated sense of what their child’s levels of achievement. </para>
+        </section>
+      </section>
+    
+
+</content>
+
+</document>

@@ -1,0 +1,258 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Learning disabilities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37786</md:content-id>
+  <md:title>Learning disabilities</md:title>
+  <md:abstract>A discussion of learning disabilities, the most common form of special educational need. This module defines different learning disabilities and notes different methods to assist students with learning disabilities.</md:abstract>
+  <md:uuid>89b5ffc0-f632-4960-a822-e184947f5743</md:uuid>
+</metadata>
+
+<content>
+ 
+      <para id="id1172059765532">A <emphasis effect="bold">learning disability</emphasis> (or <emphasis effect="bold">LD</emphasis>) is a specific impairment of academic learning that interferes with a specific aspect of schoolwork and that reduces a student’s academic performance significantly. An LD shows itself as a major discrepancy between a student’s ability and some feature of achievement: the student may be delayed in reading, writing, listening, speaking, or doing mathematics, but not in all of these at once. A learning problem is not considered a <emphasis effect="italics">learning</emphasis> disability<emphasis effect="italics"/>if it stems from physical, sensory, or motor handicaps, or from generalized intellectual impairment (or mental retardation). It is also not an LD if the learning problem really reflects the challenges of learning English as a second language. Genuine LDs are the learning problems left over after these other possibilities are accounted for or excluded. Typically, a student with an LD has not been helped by teachers’ ordinary efforts to assist the student when he or she falls behind academically—though what counts as an “ordinary effort”, of course, differs among teachers, schools, and students. Most importantly, though, an LD relates to a fairly specific area of academic learning. A student may be able to read and compute well enough, for example, but not be able to write.</para>
+      <para id="id1172057850743">LDs are by far the most common form of special educational need, accounting for half of all students with special needs in the United States and anywhere from 5 to 20 per cent of all students, depending on how the numbers are estimated (United States Department of Education, 2005; Ysseldyke &amp; Bielinski, 2002). Students with LDs are so common, in fact, that most teachers regularly encounter at least one per class in any given school year, regardless of the grade level they teach.</para>
+      <section id="id1172060129794"><title>Defining learning disabilities clearly</title><para id="id1172077479908">With so many students defined as having learning disabilities, it is not surprising that the term itself becomes ambiguous in the truest sense of “having many meanings”. Specific features of LDs vary considerably. Any of the following students, for example, qualify as having a learning disability, assuming that they have no other disease, condition, or circumstance to account for their behavior:</para>
+<list id="eip-id1169961898036">
+        <item id="id1172077683352">Albert, an eighth-grader, has trouble solving word problems that he reads, but can solve them easily if he hears them orally.</item>
+        <item id="id1172065748159">Bill, also in eighth grade, has the reverse problem: he can solve word problems only when he can read them, not when he hears them.</item>
+        <item id="id1172059740981">Carole, a fifth-grader, constantly makes errors when she reads textual material aloud, either leaving out words, adding words, or substituting her own words for the printed text.</item>
+        <item id="id1172056007732">Emily, in seventh grade, has terrible handwriting; her letters vary in size and wobble all over the page, much like a first- or second-grader.</item>
+        <item id="id1172058139847">Denny reads very slowly, even though he is in fourth grade. His comprehension suffers as a result, because he sometimes forgets what he read at the beginning of a sentence by the time he reaches the end.</item>
+        <item id="id1172077956554">Garnet’s spelling would have to be called “inventive”, even though he has practiced conventionally correct spelling more than other students. Garnet is in sixth grade.</item>
+        <item id="id1172063031042">Harmin, a ninth-grader has particular trouble decoding individual words and letters if they are unfamiliar; he reads <emphasis effect="italics">conceal</emphasis> as “concol” and <emphasis effect="italics">alternate</emphasis> as “alfoonite”.</item>
+        <item id="id1172074587915">Irma, a tenth-grader, adds multiple-digit numbers as if they were single-digit numbers stuck together: <emphasis effect="italics">42 + 59</emphasis> equals <emphasis effect="italics">911</emphasis> rather than <emphasis effect="italics">101,</emphasis> though <emphasis effect="italics">23 + 54</emphasis> correctly equals <emphasis effect="italics">77.</emphasis></item>
+</list>
+        <para id="id1172069436607">With so many expressions of LDs, it is not surprising that educators sometimes disagree about their nature and about the kind of help students need as a consequence. Such controversy may be inevitable because LDs by definition are learning problems with no obvious origin. There is good news, however, from this state of affairs, in that it opens the way to try a variety of solutions for helping students with learning disabilities.</para>
+      </section>
+      <section id="id1172062998208">
+        <title>Assisting students with learning disabilities</title>
+        <para id="id1172075022015">There are various ways to assist students with learning disabilities, depending not only on the nature of the disability, of course, but also on the concepts or theory of learning guiding you. Take Irma, the girl mentioned above who adds two-digit numbers as if they were one digit numbers. Stated more formally, Irma adds two-digit numbers without carrying digits forward from the ones column to the tens column, or from the tens to the hundreds column. Exhibit 2 shows the effect that her strategy has on one of her homework papers. What is going on here and how could a teacher help Irma?</para>
+        <para id="id1172058706972">Directions: Add the following numbers.</para>
+        <table id="id1172073992081" summary="description"><title>Irma’s math homework about two-digit addition</title>
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>42</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  59</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>911</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>23</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  54</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>77</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>11</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  48</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>59</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>47</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  23</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>610</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>97</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  64</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>1511</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+
+                <entry><m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>41</m:mn>
+
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  27</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtd>
+<m:mtr>
+<m:mrow>
+<m:mn>68</m:mn>
+</m:mrow>
+</m:mtr>
+</m:mtd>
+
+
+</m:mtable>
+</m:mrow></m:math></entry>
+              </row>
+            </tbody>
+          
+
+
+
+
+
+
+
+</tgroup><caption>Three out of the six problems are done correctly, even though Irma seems to use an incorrect strategy systematically on all six problems.</caption>
+</table>
+        
+        
+        <section id="id1172059690185">
+          <title>Behaviorism: reinforcement for wrong strategies</title>
+          <para id="id1172046570002">One possible approach comes from the behaviorist theory discussed in <link document="m37958"/>. Irma may persist with the single-digit strategy because it has been reinforced a lot in the past. Maybe she was rewarded so much for adding single-digit numbers (<emphasis effect="italics">3+5, 7+8 </emphasis>etc.) correctly that she generalized this skill to two-digit problems—in fact <emphasis effect="italics">over </emphasis>generalized it. This explanation is plausible because she would still get many two-digit problems right, as you can confirm by looking at it. In behaviorist terms, her incorrect strategy would still be reinforced, but now only on a “partial schedule of reinforcement”. As I pointed out in <link document="m37958"/>, partial schedules are especially slow to extinguish, so Irma persists seemingly indefinitely with treating two-digit problems as if they were single-digit problems.</para>
+          <para id="id1172057731874">From the point of view of behaviorism, changing Irma’s behavior is tricky since the desired behavior (borrowing correctly) rarely happens and therefore cannot be reinforced very often. It might therefore help for the teacher to reward behaviors that compete directly with Irma’s inappropriate strategy. The teacher might reduce credit for simply finding the correct answer, for example, and increase credit for a student showing her work—including the work of carrying digits forward correctly. Or the teacher might make a point of discussing Irma’s math work with Irma frequently, so as to create more occasions when she can praise Irma for working problems correctly.</para>
+        </section>
+        <section id="id1172069145034">
+          <title>Metacognition and responding reflectively </title>
+          <para id="id1172059331438">Part of Irma’s problem may be that she is thoughtless about doing her math: the minute she sees numbers on a worksheet, she stuffs them into the first arithmetic procedure that comes to mind. Her learning style, that is, seems too impulsive and not reflective enough, as discussed in <link document="m37668"/>. Her style also suggests a failure of metacognition (remember that idea from <link document="m37958"/>?), which is her self-monitoring of her own thinking and its effectiveness. As a solution, the teacher could encourage Irma to think out loud when she completes two-digit problems—literally get her to “talk her way through” each problem. If participating in these conversations was sometimes impractical, the teacher might also arrange for a skilled classmate to take her place some of the time. Cooperation between Irma and the classmate might help the classmate as well, or even improve overall social relationships in the classroom.</para>
+        </section>
+        <section id="id1172077708426">
+          <title>Constructivism, mentoring, and the zone of proximal development </title>
+          <para id="id1172071684988">Perhaps Irma has in fact learned how to carry digits forward, but not learned the procedure well enough to use it reliably on her own; so she constantly falls back on the earlier, better-learned strategy of single-digit addition. In that case her problem can be seen in the constructivist terms, like those that I discussed in <link document="m37958"/>. In essence, Irma has lacked appropriate mentoring from someone more expert than herself, someone who can create a “zone of proximal development” in which she can display and consolidate her skills more successfully. She still needs mentoring or “assisted coaching” more than independent practice. The teacher can arrange some of this in much the way she encourages to be more reflective, either by working with Irma herself or by arranging for a classmate or even a parent volunteer to do so. In this case, however, whoever serves as mentor should not only listen, but also actively offer Irma help. The help has to be just enough to insure that Irma completes two-digit problems correctly—neither more nor less. Too much help may prevent Irma from taking responsibility for learning the new strategy, but too little may cause her to take the responsibility prematurely.</para>
+        </section>
+      </section>
+   
+
+</content>
+
+</document>

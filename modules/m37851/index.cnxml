@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Selected response items</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37851</md:content-id>
+  <md:title>Selected response items</md:title>
+  <md:abstract>Coverage of types of selected response items and a detailed discussion of the most effective ways to design these items as well as common errors when designing them.</md:abstract>
+  <md:uuid>8cf35ec5-8032-4338-a701-f8c17ddcf0af</md:uuid>
+</metadata>
+
+<content>
+    
+      <note id="eip-724">The primary author of this module is Dr. Rosemary Sutton.</note><para id="id1164139324058">Common formal assessment formats used by teachers are <emphasis effect="italics">multiple choice, matching,</emphasis> and <emphasis effect="italics">true/false items</emphasis>. In selected response items students have to select a response provided by the teacher or test developer rather than constructing a response in their own words or actions. Selected response items do not require that students <emphasis effect="italics">recall</emphasis> the information but rather <emphasis effect="italics">recognize</emphasis> the correct answer. Tests with these items are called <emphasis effect="italics">objective </emphasis>because the results are not influenced by scorers’ judgments or interpretations and so are often machine scored. Eliminating potential errors in scoring increases the reliability of tests but teachers who only use objective tests are liable to reduce the validity of their assessment because objective tests are not appropriate for all learning goals (Linn &amp; Miller, 2005). Effective assessment <emphasis effect="italics">for</emphasis> learning as well as assessment <emphasis effect="italics">of </emphasis>learning must be based on aligning the assessment technique to the learning goals and outcomes. </para>
+      <para id="id1164140997937">For example, if the goal is for students to conduct an experiment then they should be asked to do that rather that than being asked <emphasis effect="italics">about</emphasis> conducting an experiment. </para>
+      <section id="id1164137227068"><title>Common problems</title><para id="id1164139246808">Selected response items are easy to score but are hard to devise. Teachers often do not spend enough time constructing items and common problems include: </para>
+<list id="eip-id7911340" list-type="enumerated" number-style="arabic"><item id="id1164142421465">Unclear wording in the items 
+<list id="eip-id1165993858340">
+        <item id="id8857754"><emphasis effect="italics">True or False: </emphasis>Although George Washington was born into a wealthy family, his father died when<emphasis effect="italics"/>he was only 11, he worked as a youth as a surveyor of rural lands, and later stood on the balcony of Federal Hall in New York when he took his oath of office in 1789. <emphasis effect="italics"/></item></list>
+</item>
+        <item id="id1164140975966">Cues that are not related the content being examined.
+<list id="eip-id1660445">
+        <item id="id1164137779932">A common clue is that all the true statements on a true/false test or the corrective alternatives on a multiple choice test are longer than the untrue statements or the incorrect alternatives. </item>
+</list>
+</item>
+        <item id="id8918611">Using negatives (or double negatives) the items. 
+<list id="eip-id1165983335327">
+        <item id="id1164142255966">A poor item. “True or False: None of the steps made by the student was unnecessary.” </item>
+        <item id="id1164140687250">A better item. True or False: “All of the steps were necessary.”</item>
+</list>
+<para id="eip-id1167651914236">Students often do not notice the negative terms or find them confusing so avoiding them is generally recommended (Linn &amp; Miller 2005<emphasis effect="italics">). </emphasis>However, since standardized tests often use negative items, teachers sometimes deliberately include some negative items to give students practice in responding to that format.</para>
+</item>
+<item>Taking sentences directly from textbook or lecture notes.<para id="eip-id1167777623780">Removing the words from their context often makes them ambiguous or can change the meaning. For example, a statement from Chapter 3 taken out of context suggests all children are clumsy. “Similarly with jumping, throwing and catching: the large majority of children can do these things, though often a bit clumsily.” A fuller quotation makes it clearer that this sentence refers to 5-year-olds: For some fives, running still looks a bit like a hurried walk, but usually it becomes more coordinated within a year or two. Similarly with jumping, throwing and catching: the large majority of children can do these things, though often a bit clumsily, by the time they start school, and most improve their<emphasis effect="italics"/>skills noticeably during the early elementary years.<emphasis effect="italics">” </emphasis>If the abbreviated form was used as the stem in a true/false item it would obviously be misleading.</para></item>
+<item>Avoid trivial questions
+<para id="eip-id1167294283370"><emphasis effect="italics"> e.g. Jean Piaget was born in what year? </emphasis></para>
+<list id="eip-id1167303557253" list-type="enumerated" number-style="lower-alpha"><item>1896</item><item>1900</item><item>1880</item><item>1903</item></list><para id="eip-272">While it important to know approximately when Piaget made his seminal contributions to the understanding of child development, the exact year of his birth (1880) is not important. </para></item></list>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </section>
+      <section id="id4019563"><title>Strengths and weaknesses</title><para id="id1164140378036">All types of selected response items have a number of strengths and weaknesses. <emphasis effect="italics">True/False</emphasis> items are appropriate for measuring factual knowledge such as vocabulary, formulae, dates, proper names, and technical terms. They are very efficient as they use a simple structure that students can easily understand, and take little time to complete. They are also easier to construct than multiple choice and matching items. However, students have a 50 per cent probability of getting the answer correct through guessing so it can be difficult to interpret how much students know from their test scores. Examples of common problems that arise when devising true/false items are in <link target-id="id1167669393190"/>.</para>
+        
+<table id="id1167669393190" summary="Examples of poorly created selected response exam questions, organized by format and category."><title>Common errors in selected response items</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Type of item</entry>
+            <entry>Common Errors</entry>
+            <entry>Example</entry>
+          </row>
+          <row>
+            <entry>True False</entry>
+            <entry>The statement is not absolutely true–typically because it contains a broad generalization</entry>
+            <entry><para id="eip-id1169116844709">T F The President of the United States is elected to that office.</para> <para id="eip-id1169122833180">This is usually true but the US Vice President can succeed the President.</para></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>The item is opinion not fact.</entry>
+            <entry><para id="eip-id1169126386204">T F Education for K-12 students is improved through policies that support charter schools.</para> <para id="eip-id1169142504753">Some people believe this, some do not.</para></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Two ideas are included in item</entry>
+            <entry><para id="eip-id1169119469305">T F George H Bush the 40<sup>th</sup> president of the US was defeated by William Jefferson Clinton in 1992.</para> <para id="eip-id1169129452206"><emphasis effect="italics">The 1</emphasis><emphasis effect="italics">st</emphasis><emphasis effect="italics"> idea is false; the 2</emphasis><emphasis effect="italics">nd</emphasis><emphasis effect="italics"> is true making it difficult for students to decide whether to circle T or F.</emphasis></para></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Irrelevant cues</entry>
+            <entry><para id="eip-id1169142201881">T F The President of the United States is usually elected to that office.</para> <para id="eip-id1169141192331">True items contain the words such as usually generally; whereas false items contain the terms such as always, all, never.</para></entry>
+          </row>
+          <row>
+            <entry>Matching</entry>
+            <entry>Columns do not contain homogeneous information</entry>
+            <entry><para id="eip-id1169129527089">Directions: On the line to the US Civil War Battle write the year or confederate general in Column B.</para><table id="id1167669393191" summary="description">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Column A</entry>
+            <entry>Column B</entry>
+  </row>
+          <row>
+            <entry>Ft Sumter</entry>
+            <entry>General Stonewall Jackson</entry>
+  </row>
+          <row>
+            <entry>2nd Battle of Bull Run</entry>
+            <entry>General Johnson</entry>
+  </row>
+          <row>
+            <entry>Ft Henry</entry>
+            <entry>1861</entry>
+  </row>
+          <row>
+            <entry/>
+            <entry>1862</entry>
+  </row>
+</tbody>
+      
+</tgroup>
+</table> <para id="eip-id1169117235761">Column B is a mixture of generals and dates</para></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Too many items in each list</entry>
+            <entry>Lists should be relatively short (4 – 7) in each column. More than 10 are too confusing.</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Responses are not in logical order</entry>
+            <entry>In the example with Spanish and English words should be in a logical order (they are alphabetical). If the order is not logical, student spend too much time searching for the correct answer.</entry>
+          </row>
+          <row>
+            <entry>Multiple Choice</entry>
+            <entry>Problem (i.e. the stem) is not clearly stated problem</entry>
+            <entry><para id="eip-id1167656796838">New Zealand</para> <list id="eip-id1167652791076"><item>Is the worlds’ smallest continent</item> <item>Is home to the kangaroo</item> <item>Was settled mainly by colonists from Great Britain</item> <item>Is a dictatorship</item></list> <para id="eip-id1167648386368">This is really a series of true-false items. Because the correct answer is c) a better version with the problem in the stem is</para> <list id="eip-id1167648066175"><item>Much of New Zealand was settled by colonists from</item> <item>Great Britain</item> <item>Spain</item> <item>France</item> <item>Holland</item></list> </entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Some of the alternatives are not plausible</entry>
+            <entry><para id="eip-id1167649504084">Who is best known for their work on the development of the morality of justice.</para> <list id="eip-id1167648037910"><item>Gerald Ford</item> <item>Vygotsky</item> <item>Maslow</item> <item>Kohlberg</item></list> <para id="eip-id1167681629490">Obviously Gerald Ford is not a plausible alternative</para></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Irrelevant cues</entry>
+            <entry>
+              <list id="id1167678256264" list-type="bulleted">
+                <item>Correct alternative is longer</item>
+                <item>Incorrect alternatives are not grammatically correct with the stem</item>
+                <item>Too many correct alternatives are in position “b” or “c” making it easier for students to guess. All the options (e.g. a, b, c, d) should be used in approximately equal frequently (not exact as that also provides clues).</item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Use of “All of above”</entry>
+            <entry>
+              <list id="id3812310" list-type="bulleted">
+                <item>If “all of the above” is used then the other items must be correct. This means that a student may read the 1<sup>st</sup> response, mark it correct and move on. Alternatively, a student may read the 1<sup>st</sup> two items and seeing they are true does nor need to read the other alternatives to know to circle “all of the above”. The teacher probably does not want either of these options.</item>
+              </list>
+            </entry>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup>
+</table>
+        
+        
+        
+        
+       
+        
+        <para id="id1164140966222">In<emphasis effect="italics"> matching items, </emphasis>two parallel columns containing terms, phrases, symbols, or numbers are presented and the student is asked to match the items in the first column with those in the second column. Typically there are more items in the second column to make the task more difficult and to ensure that if a student makes one error they do not have to make another. Matching items most often are used to measure lower level knowledge such as persons and their achievements, dates and historical events, terms and definitions, symbols and concepts, plants or animals and classifications (Linn &amp; Miller, 2005). An example with Spanish language words and their English equivalents is below: </para>
+        <para id="id1164139170720">Directions: On the line to the left of the Spanish word in Column A, write the letter of the English word in Column B that has the same meaning. </para>
+
+<table id="id1167669393192" summary="One column of spanish words and one column of english words.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="italics">Column A</emphasis></entry>
+            <entry><emphasis effect="italics">Column B</emphasis></entry>
+  </row>
+          <row>
+            <entry><space count="4" effect="underline"/> 1. Casa</entry>
+            <entry>A. Aunt</entry>
+  </row>
+          <row>
+            <entry><space count="4" effect="underline"/> 2. Bebé</entry>
+            <entry>B. Baby</entry>
+  </row>
+          <row>
+            <entry><space count="4" effect="underline"/> 3. Gata</entry>
+            <entry>C. Brother</entry>
+  </row>
+          <row>
+            <entry><space count="4" effect="underline"/> 4. Perro</entry>
+            <entry>D. Cat</entry>
+  </row>
+  <row>
+    <entry><space count="4" effect="underline"/> 5. Hermano</entry>
+    <entry>E. Dog</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>F. Father</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>G. House</entry>
+  </row>
+</tbody>
+      
+
+
+</tgroup>
+</table>
+       
+        <para id="id1164138316784">While matching items may seem easy to devise it is hard to create homogenous lists. Other problems with matching items and suggested remedies are in <link target-id="id1167669393190"/>.</para>
+        <para id="id1164142488696"><emphasis effect="italics"> Multiple Choice</emphasis> items are the most commonly used type of objective test items because they have a number of advantages over other objective test items. Most importantly they can be adapted to assess higher levels thinking such as application as well as lower level factual knowledge. The first example below assesses knowledge of a specific fact whereas the second example assesses application of knowledge.</para>
+        <para id="id1164138339438">   Who is best known for their work on the development of the morality of justice? </para>
+<list id="eip-id1172010363377" list-type="enumerated" number-style="lower-alpha"><item id="id1164147165292">Erikson</item>
+        <item id="id1164139373862">Vygotsky</item>
+        <item id="id1164137517744">Maslow</item>
+        <item id="id1164137759052">Kohlberg</item>
+</list>
+        <para id="id1164140558476">Which one of the following best illustrates the law of diminishing returns</para>
+<list id="eip-id1171990926802" list-type="enumerated" number-style="lower-alpha"><item id="id1164137807859">A factory doubled its labor force and increased production by 50 per cent</item>
+        <item id="id1164140139459">The demand for an electronic product increased faster than the supply of the product</item>
+        <item id="id1164136872778">The population of a country increased faster than agricultural self sufficiency</item>
+        <item id="id1164147871029">A machine decreased in efficacy as its parts became worn out </item>
+</list>
+        <para id="id1164134811335">(Adapted from Linn and Miller 2005, p, 193).</para>
+        <para id="id1164139227114">There are several other advantages of multiple choice items. Students have to recognize the correct answer not just know the incorrect answer as they do in true/false items. Also, the opportunity for guessing is reduced because four or five alternatives are usually provided whereas in true/false items students only have to choose between two choices. Also, multiple choice items do not need homogeneous material as matching items do.</para>
+        <para id="id8967508">However, creating good multiple choice test items is difficult and students (maybe including you) often become frustrated when taking a test with poor multiple choice items. Three steps have to be considered when constructing a multiple choice item: formulating a clearly stated problem, identifying plausible alternatives, and removing irrelevant clues to the answer. Common problems in each of these steps are summarized in <link target-id="id7577393"/></para>
+      </section>
+    
+</content>
+
+</document>

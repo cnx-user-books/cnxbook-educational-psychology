@@ -1,0 +1,319 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Formulating learning objectives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37556</md:content-id>
+  <md:title>Formulating learning objectives</md:title>
+  <md:abstract>A module with methods for how to formulate learning objectives for students, including two versions of Bloom's Taxonomy applied to student learning.</md:abstract>
+  <md:uuid>ddf44647-a4a9-48a2-a046-4d2ed93d995a</md:uuid>
+</metadata>
+
+<content>
+   
+      <para id="id1167780207297">Given curriculum frameworks and guides like the ones just described, how do you choose and formulate actual learning objectives? Basically there are two approaches: either start by selecting content or topics that what you want students to know (the cognitive approach) or start with what you want students to do (the behavioral approach). In effect the cognitive approach moves from the general to the specific, and the behavioral approach does the opposite. Each approach has advocates, as well as inherent strengths and problems. In practice, teachers often combine or alternate between them in order to give students some of the advantages of each.</para>
+      <section id="id1167772575719">
+        <title>From general to specific: selecting content topics</title>
+        <para id="id1167774988996">The cognitive approach assumes that teachers normally have a number of long-term, general goals for students, and it begins with those goals. It also assumes that each student work toward long-term, general goals along different pathways and using different styles of learning. Because of these assumptions, it is necessary to name indicators<emphasis effect="bold">, </emphasis>which are examples of specific behaviors by which students might show success at reaching a general learning goal. But it is neither desirable nor possible for a list of indicators to be complete—only for it to be representative (Gronlund, 2004). Consider this example from teaching middle-school biology. For this subject you might have a general goal like the following, with accompanying indicators:</para>
+        <para id="id1167778053685">Goal: </para>
+        <para id="id1167774966019"><emphasis effect="italics">The student will understand the nature and purpose of photosynthesis.</emphasis></para>
+        <para id="id1167802057930"><emphasis effect="italics">Indicators:</emphasis></para>
+        <list id="id1167781492088" list-type="enumerated" number-style="arabic">
+          <item>explains the purpose of photosynthesis and steps in the process</item>
+          <item>diagrams steps in the chemical process</item>
+          <item>describes how plant photosynthesis affects the animal world</item>
+          <item>writes a plan for how to test leaves for presence of photosynthesis</item>
+          <item>makes an oral presentation and explains how the experiment was conducted</item>
+        </list>
+        <para id="id1167780278554">Using a strictly cognitive approach to planning, therefore, a teacher’s job has two parts. First she must identify, find, or choose a manageable number of general goals—perhaps just a half dozen or so. (Sometimes these can be taken or adapted from a curriculum framework document such as discussed earlier.) Then the teacher must think of a handful of specific examples or behavioral indicators for each goal—just a half dozen or so of these as well. The behavioral indicators clarify the meaning of the general goal, but are not meant to be the only way that students might show success at learning. Then, at last, thoughtful planning for individual lessons or activities can begin. This approach works especially well for learning goals that are relatively long-term—goals that take many lessons, days, or weeks to reach. During such long periods of teaching, it is impossible to specify the exact, detailed behaviors that every student can or should display to prove that he or she has reached a general goal. It is possible, however, to specify general directions toward which all students should focus their learning and to explain the nature of the goals with a sample of well-chosen indicators or examples (Popham, 2002).</para>
+        <para id="id1167792893088">The cognitive, general-to-specific approach is reasonable on the face of it, and in fact probably describes how many teachers think about their instructional planning. But critics have argued that indicators used as examples may not in fact clarify the general goal enough; students therefore end up unexpectedly—as Casey Stengel said at the start of this chapter—“someplace else”. Given the general goal of understanding photosynthesis described above, for example, how are we to know whether the five indicators that are listed really allow a teacher to grasp the full meaning of the goal? Put differently, how <emphasis effect="italics">else </emphasis>might a student show understanding of photosynthesis, and how is a teacher to know that a student’s achievement is s a legitimate display of understanding? To some educators, grasping the meaning of goals from indicators is not as obvious as it should be, and in any case is prone to misunderstanding. The solution, they say, is not to start planning with general goals, but with specific behaviors that identify students’ success.</para>
+      </section>
+      <section id="id1167794981224">
+        <title>From specific to general: behavioral objectives</title>
+        <para id="id1167774258293">Compared to the cognitive approach, the behavioral approach to instructional planning reverses the steps in planning. Instead of starting with general goal statements accompanied by indicator examples, it starts with the identification of specific behaviors—concrete actions or words—that students should perform or display as a result of instruction (Mager, 2005). Collectively, the specific behaviors may describe a more general educational goal, but unlike the indicators used in the cognitive approach, they are not a mere sampling of the possible specific outcomes. Instead they represent <emphasis effect="italics">all</emphasis> the intended specific outcomes. Consider this sampling of behavioral objectives:</para>
+        <para id="id1167781653809"><emphasis effect="italics">Objectives: Learning to use in-line roller blade skates (beginning level)</emphasis></para>
+        <list id="id1167775272318" list-type="enumerated" number-style="arabic">
+          <item>Student ties boots on correctly.</item>
+          <item>Student puts on safety gear correctly, including helmet, knee and elbow pads.</item>
+          <item>Student skates 15 meters on level ground without falling.</item>
+          <item>Student stops on demand within a three meter distance, without falling.</item>
+        </list>
+        <para id="id1167796164388">The objectives listed are not merely a representative sample of how students can demonstrate success with roller-blading. Instead they are behaviors that every student should acquire in order to meet the goal of using roller blades as a beginner. There simply are no other ways to display learning of this goal; getting 100 per cent on a written test about roller blading, for example, would not qualify as success with this goal, though it might show success at some other goal, such as verbal knowledge about roller blading. Even adding other skating behaviors (like “Student skates backwards” or “Student skates in circles”) might not qualify as success with this particular goal, because it could reasonably be argued that the additional skating behaviors are about skating at an advanced level, not a beginning level.</para>
+        <para id="id1167775040116">In the most commonly used version of this approach, originated by Robert Mager (1962, 2005), a good behavioral objective should have three features. First, it should specify a behavior that can in fact be observed. In practice this usually means identifying something that a student does or says, not something a student thinks or feels. Compare the following examples; the one on the left names a behavior to be performed, but the one on the right names a thinking process that cannot, in principle, be seen:</para>
+        <table id="id1167774294951" summary="An example of a behavioral objective and a non-behavioral objective.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Behavioral objective</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold"><emphasis effect="italics">Not </emphasis></emphasis>
+                  <emphasis effect="bold">behavioral object</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>The student will make a list of animal species that live in the water but breathe air and a separate list of species that live in the water but do not require air to breathe.</entry>
+                <entry>The student will understand the difference between fish and mammals that live in the water.</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <para id="id1167775020500">The second feature of a good behavioral objective is that it describes conditions of performance of the behavior. What are the special circumstances to be provided when the student performs the objective? Consider these two examples:</para>
+        <table id="id8005454" summary="description">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Special condition of performance </emphasis>
+                  <emphasis effect="bold"><emphasis effect="italics">is</emphasis></emphasis>
+                  <emphasis effect="bold"> specified</emphasis>
+                </entry>
+                <entry><emphasis effect="bold">A special condition of performance is not specified</emphasis></entry>
+              </row>
+              <row>
+                <entry>Given a list of 50 species, the student will circle those that live in water but breathe air and underline those that live in water but do not breathe air.</entry>
+                <entry>After three days of instruction, the student will identify species that live in water but breathe air, as well as species that live in water but do not breathe air.</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1167790624221">The objective on the left names a special condition of performance—that the student will be given a particular kind of list to work from—which is not part of the instruction itself. The objective on the right appears to name a condition—“three days of instruction”. But the condition really describes what the teacher will do (she will instruct), not something specific to students’ performance.</para>
+        <para id="id1167773564937">The third feature of a good behavioral objective is that it specifies a minimum level or degree of acceptable performance. Consider these two examples:</para>
+        <table id="id1167778091640" summary="Two examples about the specified minimum level.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Specifies minimum level</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Does 
+                  <emphasis effect="italics">not</emphasis>
+                   specify minimum level</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Given a list of 50 species, the student will circle all<emphasis effect="italics"/>of those that live in water but breathe air and underline all of those that live in water but do not breathe air. The student will do so within fifteen minutes.</entry>
+                <entry>The student will circle names of species that live in water but breathe air and underline those that live in water but do not breathe air.</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <para id="id1167773623108">The objective on the left specifies a level of performance—100 per cent accuracy within 15 minutes. The objective on the right leaves this information out (and incidentally it also omits the condition of performance mentioned on the left).</para>
+        <para id="id1167791501433">Behavioral objectives have obvious advantages because of their clarity and precision. They seem especially well suited for learning that by their nature they can be spelled out explicitly and fully, such as when a student is learning to drive a car, to use safety equipment in a science laboratory, or install and run a particular computer program. Most of these goals, as it happens, also tend to have relatively short learning cycles, meaning that they can be learned as a result of just one lesson or activity, or of just a short series of them at most. Such goals tend not to include the larger, more abstract goals of education. In practice, both kinds of goals— the general and the specific—form a large part of education at all grade levels.</para>
+      </section>
+      <section id="id1167780129312">
+        <title>Finding the best in both approaches</title>
+        <para id="id1167773758730">When it comes to teaching and learning the large or major goals, then, behavioral objectives can seem unwieldy. How, a teacher might ask, can you spell out <emphasis effect="italics">all</emphasis> of the behaviors involved in a general goal like <emphasis effect="italics">becoming a good citizen? </emphasis>How could you name in advance the numerous conditions under which good citizenship might be displayed, or the minimum acceptable level of good citizenship expected in each condition? Specifying these features seems impractical at best, and at times even undesirable ethically or philosophically. (Would we really want any students to become “minimum citizens”?) Because of these considerations, many teachers find it sensible to compromise between the cognitive and behavioral approaches. Here are some features that are often part of a compromise:</para>
+        <list id="id1167778558952" list-type="bulleted">
+          <item>When planning, think about BOTH long-term, general goals AND short-term, immediate objectives. A thorough, balanced look at most school curricula shows that they are concerned with the general as well as the specific. In teaching elementary math, for example, you may want students to learn general problem solving strategies (a general goal), but you may also want them to learn specific math facts (a specific objective). In teaching Shakespeare’s plays in high school, you may want students to be able to compare the plays critically (a general goal), but doing so may require that they learn details about the characters and plots of the major plays (a specific objective). Since general goals usually take longer to reach than specific objectives, instructional planning has to include both time frames.</item>
+          <item>Plan for what students do, not what the teacher does. This idea may seem obvious, but it is easy to overlook it when devising lesson plans. Consider that example again about teaching Shakespeare. If you want students to learn the details about Shakespeare’s plays, it is tempting to plan objectives like “Summarize the plot of each play to students”, or “Write and hand out to students an outline of the plays”. Unfortunately these objectives describe only what the teacher does, and makes the assumption (often unwarranted) that students will remember what the teacher says or puts in writing for them. A better version of the same objective should focus on the actions of students, not of teachers—for example, “Students will write a summary, from memory, of each of the major plays of Shakespeare”. This version focuses on what students do instead of what the teacher does. (Of course you may still have to devise activities that help students to reach the objective, such as providing guided practice in writing summaries of plays.)</item>
+          <item>To insure diversity of goals and objectives when planning, consider organizing goals and objectives by using a systematic classification scheme of educational objectives. At the beginning of this section we stated that there is a need, when devising goals and objectives, for both the specific and the general. Actually a more accurate statement is that there is a need for goals and objectives that refer to a variety of cognitive processes and that have varying degrees of specificity or generality. One widely used classification scheme that does so, for example, is one proposed 50 years ago by Benjamin Bloom (1956) and revised recently by his associates (Anderson &amp; Krathwohl, 2001). We describe this system, called a taxonomy of objectives, in the next section. </item>
+        </list>
+      </section>
+      <section id="id1167783696997">
+        <title>Taxonomies of educational objectives</title>
+        <para id="id1167780768250">When educators have proposed taxonomies of educational objectives, they have tended to focus on one of three areas or domains of psychological functioning: either students’ cognition (thought), students’ feelings and emotions (affect), or students’ physical skills (psychomotor abilities). Of these three areas, they have tended to focus the most attention on cognition. The taxonomy originated by Benjamin Bloom, for example, deals entirely with cognitive outcomes of instruction.</para>
+        <section id="id1167783808029">
+          <title>Bloom’s Taxonomy:</title>
+          <para id="id1167791786900">In its original form, <emphasis effect="bold">Bloom’s Taxonomy</emphasis> of educational objectives referred to forms of cognition or thinking, which were divided into the six levels (Bloom, et al., 1956). Table 5 summarizes the levels, and offers two kinds of examples—simple ones based on the children’s story <emphasis effect="italics">Goldilocks and the Three Bear</emphasis>s, and complex ones more typical of goals and objectives used in classrooms. The levels form a loose hierarchy from simple to complex thinking, at least when applied to some subjects and topics. When planning for these subjects it can therefore be helpful not only for insuring diversity among learning objectives, but also for sequencing materials. In learning about geography, for example, it may sometimes make sense to begin with information about specific places or societies (knowledge and comprehension), and work gradually toward comparisons and assessments among the places or societies (analysis and synthesis).</para>
+          
+          <table id="id1167773653663" summary="A list of types of learning, based on Bloom's Taxonomy, with two examples each."><title>Bloom’s Taxonomy of objectives: cognitive domain</title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Type or level of learning</entry>
+                  <entry>Simple example</entry>
+                  <entry>Classroom example</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Knowledge</emphasis>: recall of information, whether it is simple or complex in nature</entry>
+                  <entry>“Name three things that Goldilocks did in the house of the three bears.”</entry>
+                  <entry>“List all of the planets of the solar system.” “State five key features of life in the middle ages.”</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Comprehension</emphasis>: grasping the meaning of information, by interpreting it or translating it from one form to another</entry>
+                  <entry>“Explain why Goldilocks preferred the little bear’s chair.”</entry>
+                  <entry>“Convert the following arithmetic word problem to a mathematical equation.” “Describe how plants contribute to the welfare of animal life.”</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Application</emphasis>: using information in new, concrete situations</entry>
+                  <entry>“Predict some of the things Goldilocks might have used if she had entered your house.”</entry>
+                  <entry>“Illustrate how positive reinforcement might affect the behavior of a pet dog.” “Use examples from the plot to illustrate the theme of novel.”</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Analysis</emphasis>: breaking information into its components to understand its structure</entry>
+                  <entry>“Select the part of <emphasis effect="italics">Goldilocks and the Three Bears </emphasis>where you think Goldilocks felt most comfortable.”</entry>
+                  <entry>“Compare the behavior of domestic dogs with the behavior of wolves.” “Diagram the effects of weather patterns on plant metabolism.”</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Synthesis</emphasis>: putting parts of information together into a coherent whole</entry>
+                  <entry>“Tell how the story would have been different if it had been three fishes.”</entry>
+                  <entry>“Design an experiment to test the effects of gravity on root growth.” “Write an account of how humans would be different if life had originated on Mars instead of Earth.”</entry>
+                </row>
+                <row>
+                  <entry><emphasis effect="bold">Evaluation</emphasis>: judging the value of information for a particular purpose</entry>
+                  <entry>“Justify this statement: <emphasis effect="italics">Goldilocks was a bad girl.”</emphasis></entry>
+                  <entry>“Appraise the relevance of the novel for modern life.” “Assess the value of information processing theory for planning instruction.”</entry>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+          <para id="id1167772595629">Such a sequence does <emphasis effect="italics">not</emphasis> work well, however, for all possible topics or subjects. To learn certain topics in mathematics, for example, students may sometimes need to start with general ideas (like “What does it mean to multiply?”) than with specific facts (like “How much is 4 x 6?”) (Egan, 2005). At other times, though, the reverse sequence may be preferable. Whatever the case, a taxonomy of cognitive objectives, like Bloom’s, can help to remind teachers to set a variety of objectives and to avoid relying excessively on just one level, such as simple recall of factual knowledge (Notar, et al., 2004).</para>
+        </section>
+        <section id="id1167773605418"><title>Bloom’s Taxonomy revised </title><para id="id1167772534536">A few years ago two of Benjamin Bloom’s original colleagues, Linda Anderson and David Krathwohl, revised his taxonomy so as to clarify its terms and to make it more complete (Anderson &amp; Krathwohl, 2001; Marzano, 2006). The resulting categories are summarized and compared to the original categories in Table 6. As the chart shows, several categories of objectives have been renamed and a second dimension added that describes the kind of thinking or cognitive processing that may occur. The result is a much richer taxonomy than before, since every level of the objectives can now take four different forms. <emphasis effect="italics">Remembering,</emphasis> for example, can refer to four different kinds of memory: memory for facts, for concepts, for procedures, or for metacognitive knowledge. Table 6 gives examples of each of these kinds of memory.</para>
+          
+          <table id="id1167780675854" summary="A revised listing of cognitive objectives from bloom's taxonomy, with revised terms, new dimensions added, and new examples."><title>Bloom’s Taxonomy of cognitive objectives—revised </title><tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Original term from Bloom’s Taxonomy (1956)</entry>
+                  <entry>Revised term emphasizing cognitive processing (2001)</entry>
+                  <entry>A new dimension added: types of knowledge learned (2001)</entry>
+                  <entry>
+                    <emphasis effect="bold">Example of cognitive process</emphasis>
+                    <emphasis effect="italics">remembering</emphasis>
+                    <emphasis effect="bold">combined with possible</emphasis>
+                    <emphasis effect="italics">types</emphasis>
+                    <emphasis effect="bold">of knowledge</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Knowledge </entry>
+                  <entry>Remembering </entry>
+                  <entry/>
+                  <entry>
+                    <emphasis effect="bold">Memory for facts: </emphasis>
+                    <emphasis effect="italics">recalling the names of each part of a living cell</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entrytbl namest="c1" nameend="c2" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry>Comprehension</entry>
+                        <entry>Understanding</entry>
+                      </row>
+                      <row>
+                        <entry>Application</entry>
+                        <entry>Applying</entry>
+                      </row>
+                      <row>
+                        <entry>Analysis </entry>
+                        <entry>Analyzing</entry>
+                      </row>
+                      <row>
+                        <entry>Evaluation </entry>
+                        <entry>Evaluating </entry>
+                      </row>
+                      <row>
+                        <entry>Synthesis</entry>
+                        <entry>Creating </entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>
+                    <list id="id1167778618425" list-type="bulleted">
+                      <item>factual knowledge</item>
+                      <item>conceptual knowledge</item>
+                      <item>procedural knowledge</item>
+                      <item>metacognitive knowledge</item>
+                    </list>
+                  </entry>
+                  <entrytbl cols="1">
+                    <colspec colnum="1" colname="c1"/>
+                    <tbody>
+                      <row>
+                        <entry>
+                          <emphasis effect="bold">Memory for concepts:</emphasis>
+                          <emphasis effect="italics">recalling the functions of each part of a living cell</emphasis>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry>
+                          <emphasis effect="bold">Memory for procedures:</emphasis>
+                          <emphasis effect="italics">recalling how to view a cell under a microscope</emphasis>
+                        </entry>
+                      </row>
+                      <row>
+                        <entry><emphasis effect="bold">Memory for metacognition:</emphasis> recalling not the names of the parts, but a <emphasis effect="italics">technique</emphasis> for remembering the names of the parts of a living cell</entry>
+                      </row>
+                      <row>
+                        <entry/>
+                      </row>
+                      <row>
+                        <entry/>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          <caption><emphasis effect="italics">Caption: </emphasis>The revision to Bloom’s Taxonomy distinguishes between cognitive processes (left-hand column in the table) and types of knowledge learned (right-hand column). The original version has terms similar to the cognitive processing terms in the revised version. According to the revised version, any type of knowledge (from the right-hand column) can, in principle, occur with any type of cognitive processing (left-hand column).</caption></table>
+          
+        </section>
+        <section id="id1167774939467"><title>Taxonomies of affective objectives and psychomotor objectives</title><para id="id2420671">Although taxonomies related to <emphasis effect="italics">affect,</emphasis> or the feelings and emotions of students, are used less commonly than cognitive taxonomies for planning instruction, various educators have constructed them. One of the most widely known was also published by colleagues of Benjamin Bloom and classifies affect according to how committed a student feels toward what he is learning (Krathwohl, Bloom, &amp; Masia, 1964/1999). <link target-id="id1167774842728"/> summarizes the categories and gives brief examples. The lowest level, called <emphasis effect="italics">receiving,</emphasis> simply involves willingness to experience new knowledge or activities. Higher levels involve embracing or adopting experiences in ways that are increasingly organized and that represent increasingly stable forms of commitment.</para>
+          
+          <table id="id1167774842728" summary="The attributes associated with affective domain and psychomotor domain, with short definitions."><title>Taxonomies of objectives: affective domain and psychomotor domain</title><tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Affective domain</entry>
+                  <entry namest="c3" nameend="c4">Psychomotor domain</entry>
+                </row>
+                <row>
+                  <entry>Receiving </entry>
+                  <entry>Willingness to attend to particular experience</entry>
+                  <entry>Imitation</entry>
+                  <entry>Repeating a simple action that has been demonstrated</entry>
+                </row>
+                <row>
+                  <entry>Responding </entry>
+                  <entry>Willingness to participate actively in an experience</entry>
+                  <entry>Manipulation </entry>
+                  <entry>Practice of an action that has been imitated but only learned partially</entry>
+                </row>
+                <row>
+                  <entry>Valuing </entry>
+                  <entry>Perception of experience as worthwhile</entry>
+                  <entry>Precision </entry>
+                  <entry>Quick, smooth execution of an action that has been practiced</entry>
+                </row>
+                <row>
+                  <entry>Organization </entry>
+                  <entry>Coordination of valued experiences into partially coherent wholes</entry>
+                  <entry>Articulation </entry>
+                  <entry>Execution of an action not only with precision, but also with modifications appropriate to new circumstances</entry>
+                </row>
+                <row>
+                  <entry>Characterization by a value complex</entry>
+                  <entry>Coordination of valued experiences and of organized sets of experiences into a single comprehensive value hierarchy</entry>
+                  <entry>Naturalization </entry>
+                  <entry>Incorporation of an action into the motor repertoire, along with experimentation with new motor actions </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id1167776062867">Taxonomies related to abilities and skills that are physical, or psychomotor, have also been used less widely than affective taxonomies, with the notable exception of one area of teaching where they are obviously relevant: physical education. As you might expect, taxonomic categories of motor skills extend from simple, brief actions to complex, extended action sequences that combine simpler, previously learned skills smoothly and automatically (Harrow, 1972; Simpson, 1972). One such classification scheme is shown in <link target-id="id1167774842728"/>. An example of a very basic psychomotor skill might be imitating the action of throwing a ball when modeled by someone else; an example of the latter might be performing a 10 minute gymnastics routine which the student has devised for himself or herself. Note, though, that many examples of psychomotor skills also exist outside the realm of physical education. In a science course, for example, a student might need to learn to operate laboratory equipment that requires using delicate, fine movements. In art classes, students might learn to draw, and in music they might learn to play an instrument (both are partly motor skills). Most first graders are challenged by the motor skills of learning to write. For students with certain physical disabilities, furthermore, motor skill development is an important priority for the student’s entire education. </para>
+        </section>
+      </section>
+    
+</content>
+
+</document>

@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Broad instructional strategies that stimulate complex thinking</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37528</md:content-id>
+  <md:title>Broad instructional strategies that stimulate complex thinking</md:title>
+  <md:abstract>This module provides a useful framework for understanding the options available for planning and implementing instruction, especially those plans and implementations that facilitate complex thinking.</md:abstract>
+  <md:uuid>dd01b10f-ba92-448c-a394-4d050fa51333</md:uuid>
+</metadata>
+
+<content>
+
+      <para id="id4321781">Because the forms of thinking just described—critical thinking, creativity and problem solving—are broad and important educationally, it is not surprising that educators have identified strategies to encourage their development. Some of the possibilities are shown in Table 1 and group several instructional strategies along two dimensions: how much the strategy is student-centered and how much a strategy depends on group interaction. It should be emphasized that the two-way classification in Table 1 is not very precise, but it gives a useful framework for understanding the options available for planning and implementing instruction. The more important of the two dimensions in the table is the first one—the extent to which an instructional strategy is either directed by the teacher or initiated by students. We take a closer look at this dimension in the next part of this chapter, followed by discussion of group-oriented teaching strategies.</para>
+      
+      <table id="id1167790169660" summary="Major instructional strategies grouped by level of teacher direction and student focus"><tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3" align="center"><emphasis effect="bold">Directed by student(s) more</emphasis></entry>
+            </row>
+            <row>
+              <entry align="center"><emphasis effect="bold">Emphasizes groups somewhat more</emphasis></entry>
+              <entrytbl cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Cooperative learning, Inquiry, Discovery learning</entry>
+                    <entry>Self-reflection, Independent study, Concept maps</entry>
+                  </row>
+                  <row>
+                    <entry>Lectures, Direct instruction, Madeline Hunter's “Effective Teaching”</entry>
+                    <entry>Mastery learning, Textbook readings, Advance organizers, Outlining, Recalling, relating, and elaborating</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry align="center"><emphasis effect="bold">Emphasizes individuals somewhat more</emphasis></entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3" align="center"><emphasis effect="bold">Directed by teacher more</emphasis></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      
+      <table id="id1167784475658" summary="A definition of the terms from the preceding table."><title>Definitions of Terms in <link target-id="id1167790169660"/></title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <term>Lecture</term>
+              </entry>
+              <entry>Telling or explaining previously organized information—usually to a group</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Assigned reading</term>
+              </entry>
+              <entry>Reading, usually individually, of previously organized information</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Advance organizers</term>
+              </entry>
+              <entry>Brief overview, either verbally or graphically, of material about to be covered in a lecture or text</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Outlining </term>
+              </entry>
+              <entry>Writing important points of a lecture or reading, usually in a hierarchical format</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Taking notes</term>
+              </entry>
+              <entry>Writing important points of a lecture or reading, often organized according to the learning needs of an individual student</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Concept maps</term>
+              </entry>
+              <entry>Graphic depiction of relationships among a set of concepts, terms, or ideas; usually organized by the student, but not always</entry>
+            </row>
+            <row>
+              <entry>
+                <term>Madeline Hunter’s “Effective Teaching”</term>
+              </entry>
+              <entry>A set of strategies that emphasizes clear presentation of goals, the explanation and modeling of tasks to students and careful monitoring of students’ progress toward the goals</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+    
+</content>
+
+</document>
