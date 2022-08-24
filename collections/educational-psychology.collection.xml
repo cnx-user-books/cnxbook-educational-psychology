@@ -1,3 +1,182 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11302</md:content-id>  <md:title>Educational Psychology</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>ce6c5eb6-84d3-4265-9554-84059b75221e</md:uuid>
-<md:slug>educational-psychology</md:slug>
-</metadata>  <col:content>          <col:module document="m37592"/>                                          <col:subcollection>        <md:title>The changing teaching profession and you</md:title>                                <col:content>                    <col:module document="m37916"/>                            <col:module document="m37931"/>                            <col:module document="m37927"/>                            <col:module document="m37909"/>                            <col:module document="m37899"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The learning process</md:title>                                <col:content>                    <col:module document="m37958"/>                            <col:module document="m38002"/>                            <col:module document="m37934"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Student development</md:title>                                <col:content>                    <col:module document="m37654"/>                            <col:module document="m37626"/>                            <col:module document="m37641"/>                            <col:module document="m37645"/>                            <col:module document="m37630"/>                            <col:module document="m37633"/>                            <col:module document="m37619"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Student diversity</md:title>                                <col:content>                    <col:module document="m37668"/>                            <col:module document="m37684"/>                            <col:module document="m37675"/>                            <col:module document="m37652"/>                            <col:module document="m37662"/>                            <col:module document="m37637"/>                            <col:module document="m37657"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Students with special educational needs</md:title>                                <col:content>                    <col:module document="m37774"/>                            <col:module document="m37781"/>                            <col:module document="m37765"/>                            <col:module document="m37778"/>                            <col:module document="m37786"/>                            <col:module document="m37752"/>                            <col:module document="m37743"/>                            <col:module document="m37772"/>                            <col:module document="m37798"/>                            <col:module document="m37785"/>                            <col:module document="m37760"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Student motivation</md:title>                                <col:content>                    <col:module document="m37700"/>                            <col:module document="m37724"/>                            <col:module document="m37726"/>                            <col:module document="m37738"/>                            <col:module document="m37712"/>                            <col:module document="m37692"/>                            <col:module document="m37710"/>                            <col:module document="m37756"/>                            <col:module document="m37705"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Classroom management and the learning environment</md:title>                                <col:content>                    <col:module document="m37505"/>                            <col:module document="m37507"/>                            <col:module document="m37496"/>                            <col:module document="m37501"/>                            <col:module document="m37506"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>The nature of classroom communication</md:title>                                <col:content>                    <col:module document="m37983"/>                            <col:module document="m38030"/>                            <col:module document="m37994"/>                            <col:module document="m38059"/>                            <col:module document="m37953"/>                            <col:module document="m38024"/>                            <col:module document="m38005"/>                            <col:module document="m37935"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Facilitating complex thinking</md:title>                                <col:content>                    <col:module document="m37520"/>                            <col:module document="m37523"/>                            <col:module document="m37512"/>                            <col:module document="m37516"/>                            <col:module document="m37528"/>                            <col:module document="m37544"/>                            <col:module document="m37540"/>                            <col:module document="m37534"/>                            <col:module document="m37531"/>                            <col:module document="m37545"/>                            <col:module document="m37525"/>                            <col:module document="m37527"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Planning instruction</md:title>                                <col:content>                    <col:module document="m37581"/>                            <col:module document="m37556"/>                            <col:module document="m37583"/>                            <col:module document="m37561"/>                            <col:module document="m37568"/>                            <col:module document="m37558"/>                            <col:module document="m37566"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Teacher-made assessment strategies</md:title>                                <col:content>                    <col:module document="m37822"/>                            <col:module document="m37813"/>                            <col:module document="m37892"/>                            <col:module document="m37889"/>                            <col:module document="m37886"/>                            <col:module document="m37838"/>                            <col:module document="m37851"/>                            <col:module document="m37864"/>                            <col:module document="m37803"/>                            <col:module document="m37799"/>                            <col:module document="m37884"/>                            <col:module document="m37877"/>                            <col:module document="m37856"/>                            <col:module document="m37894"/>                            <col:module document="m37810"/>                            <col:module document="m37843"/>                            <col:module document="m37805"/>                            <col:module document="m37848"/>                            <col:module document="m37789"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Standardized and other formal assessments</md:title>                                <col:content>                    <col:module document="m37577"/>                            <col:module document="m37609"/>                            <col:module document="m37572"/>                            <col:module document="m37587"/>                            <col:module document="m37622"/>                            <col:module document="m37612"/>                            <col:module document="m37597"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Appendices</md:title>                                <col:content>                    <col:module document="m37490"/>                            <col:module document="m37494"/>                            <col:module document="m37499"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Kelvin Seifert">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11302</md:content-id>
+    <md:title>Educational Psychology</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ce6c5eb6-84d3-4265-9554-84059b75221e</md:uuid>
+    <md:slug>educational-psychology</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m37592"/>
+    <col:subcollection>
+      <md:title>The changing teaching profession and you</md:title>
+      <col:content>
+        <col:module document="m37916"/>
+        <col:module document="m37931"/>
+        <col:module document="m37927"/>
+        <col:module document="m37909"/>
+        <col:module document="m37899"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The learning process</md:title>
+      <col:content>
+        <col:module document="m37958"/>
+        <col:module document="m38002"/>
+        <col:module document="m37934"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Student development</md:title>
+      <col:content>
+        <col:module document="m37654"/>
+        <col:module document="m37626"/>
+        <col:module document="m37641"/>
+        <col:module document="m37645"/>
+        <col:module document="m37630"/>
+        <col:module document="m37633"/>
+        <col:module document="m37619"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Student diversity</md:title>
+      <col:content>
+        <col:module document="m37668"/>
+        <col:module document="m37684"/>
+        <col:module document="m37675"/>
+        <col:module document="m37652"/>
+        <col:module document="m37662"/>
+        <col:module document="m37637"/>
+        <col:module document="m37657"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Students with special educational needs</md:title>
+      <col:content>
+        <col:module document="m37774"/>
+        <col:module document="m37781"/>
+        <col:module document="m37765"/>
+        <col:module document="m37778"/>
+        <col:module document="m37786"/>
+        <col:module document="m37752"/>
+        <col:module document="m37743"/>
+        <col:module document="m37772"/>
+        <col:module document="m37798"/>
+        <col:module document="m37785"/>
+        <col:module document="m37760"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Student motivation</md:title>
+      <col:content>
+        <col:module document="m37700"/>
+        <col:module document="m37724"/>
+        <col:module document="m37726"/>
+        <col:module document="m37738"/>
+        <col:module document="m37712"/>
+        <col:module document="m37692"/>
+        <col:module document="m37710"/>
+        <col:module document="m37756"/>
+        <col:module document="m37705"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Classroom management and the learning environment</md:title>
+      <col:content>
+        <col:module document="m37505"/>
+        <col:module document="m37507"/>
+        <col:module document="m37496"/>
+        <col:module document="m37501"/>
+        <col:module document="m37506"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The nature of classroom communication</md:title>
+      <col:content>
+        <col:module document="m37983"/>
+        <col:module document="m38030"/>
+        <col:module document="m37994"/>
+        <col:module document="m38059"/>
+        <col:module document="m37953"/>
+        <col:module document="m38024"/>
+        <col:module document="m38005"/>
+        <col:module document="m37935"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Facilitating complex thinking</md:title>
+      <col:content>
+        <col:module document="m37520"/>
+        <col:module document="m37523"/>
+        <col:module document="m37512"/>
+        <col:module document="m37516"/>
+        <col:module document="m37528"/>
+        <col:module document="m37544"/>
+        <col:module document="m37540"/>
+        <col:module document="m37534"/>
+        <col:module document="m37531"/>
+        <col:module document="m37545"/>
+        <col:module document="m37525"/>
+        <col:module document="m37527"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Planning instruction</md:title>
+      <col:content>
+        <col:module document="m37581"/>
+        <col:module document="m37556"/>
+        <col:module document="m37583"/>
+        <col:module document="m37561"/>
+        <col:module document="m37568"/>
+        <col:module document="m37558"/>
+        <col:module document="m37566"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Teacher-made assessment strategies</md:title>
+      <col:content>
+        <col:module document="m37822"/>
+        <col:module document="m37813"/>
+        <col:module document="m37892"/>
+        <col:module document="m37889"/>
+        <col:module document="m37886"/>
+        <col:module document="m37838"/>
+        <col:module document="m37851"/>
+        <col:module document="m37864"/>
+        <col:module document="m37803"/>
+        <col:module document="m37799"/>
+        <col:module document="m37884"/>
+        <col:module document="m37877"/>
+        <col:module document="m37856"/>
+        <col:module document="m37894"/>
+        <col:module document="m37810"/>
+        <col:module document="m37843"/>
+        <col:module document="m37805"/>
+        <col:module document="m37848"/>
+        <col:module document="m37789"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Standardized and other formal assessments</md:title>
+      <col:content>
+        <col:module document="m37577"/>
+        <col:module document="m37609"/>
+        <col:module document="m37572"/>
+        <col:module document="m37587"/>
+        <col:module document="m37622"/>
+        <col:module document="m37612"/>
+        <col:module document="m37597"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendices</md:title>
+      <col:content>
+        <col:module document="m37490"/>
+        <col:module document="m37494"/>
+        <col:module document="m37499"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
