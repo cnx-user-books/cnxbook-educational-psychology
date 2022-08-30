@@ -57,16 +57,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>911</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
 
                 <entry><m:math><m:mrow>
@@ -88,16 +87,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>77</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
 
                 <entry><m:math><m:mrow>
@@ -119,16 +117,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>59</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
 
                 <entry><m:math><m:mrow>
@@ -150,16 +147,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>610</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
 
                 <entry><m:math><m:mrow>
@@ -181,16 +177,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>1511</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
 
                 <entry><m:math><m:mrow>
@@ -212,16 +207,15 @@
 </m:munder>
 </m:mtd>
 </m:mtr>
-<m:mtd>
-<m:mtr>
+<m:mtr><m:mtd><m:mtd>
 <m:mrow>
 <m:mn>68</m:mn>
 </m:mrow>
-</m:mtr>
+
 </m:mtd>
 
 
-</m:mtable>
+</m:mtd></m:mtr></m:mtable>
 </m:mrow></m:math></entry>
               </row>
             </tbody>
